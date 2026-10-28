@@ -45,6 +45,7 @@
                 <a href="#requirements">Requirements</a>
                 <a href="#security">Security</a>
                 <a href="#getting-started">Install</a>
+                <a href="https://erikgratz.com/home">About Me</a>
             </nav>
 
             <div class="theme-control" role="group" aria-label="Color theme">
